@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 - 💻 Programming: Python, Java, SQL  
 - 📊 Visualization: Excel, Power BI  
-- 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn  
+- 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - 🤖 Machine Learning: Linear Regression, Classification  
 - 📐 Mathematics: Linear Algebra, Statistics, Calculus  
 - 🧰 Tools: Jupyter Notebook, Google Colab, VS Code  
