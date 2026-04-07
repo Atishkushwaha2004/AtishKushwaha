@@ -10,7 +10,6 @@
 - 🚀 Building projects to improve my skills
 
 ---
-
 ## 🛠️ Skills
 - 💻 Programming: Python, Java, SQL  
 - 📊 Visualization: Excel, Power BI  
