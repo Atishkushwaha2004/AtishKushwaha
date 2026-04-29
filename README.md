@@ -39,18 +39,6 @@ A machine learning model that classifies emails as spam or not spam.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Atishkushwaha2004)
-
----
-
-## 📊 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=react-dark)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
