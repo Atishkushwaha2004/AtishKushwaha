@@ -25,33 +25,110 @@
 ## 📂 Projects
 ## 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
+<td width="50%" align="center">
+
+### 📊 Swiggy Sales Dashboard
+
+Interactive dashboard for analyzing sales trends and performance using Python and data visualization tools.
+
+**Tech:** Python, Pandas, Streamlit  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Swiggy-Sales-Dashboard&theme=radical" />
+View Project
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 Gmail Spam Detector
+
+Machine learning model that classifies emails as spam or not spam using natural language processing techniques.
+
+**Tech:** Python, Machine Learning, NLP  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/Gmail-spam-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Gmail-spam-detector&theme=radical" />
+View Project
 </a>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📚 Library Management System
+
+Python-based system to manage library operations such as issuing, returning, and tracking books.
+
+**Tech:** Python  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/Library_Management_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Library_Management_Project&theme=radical" />
+View Project
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+### 🍔 Food Delivery ML Project
+
+Predicts food delivery time based on distance, traffic, and weather using machine learning algorithms.
+
+**Tech:** Python, Machine Learning  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Food_Delivery_ML_Project&theme=radical" />
+View Project
 </a>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📈 Linear Regression Model
+
+Regression model used to predict numerical outcomes based on input features.
+
+**Tech:** Python, Scikit-learn  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/Linear_Regression_model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Linear_Regression_model&theme=radical" />
+View Project
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Power BI Dashboard
+
+Business intelligence dashboard for visualizing key performance indicators and business metrics.
+
+**Tech:** Power BI  
+
+🔗  
 <a href="https://github.com/Atishkushwaha2004/PowerBI_deshboard_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=PowerBI_deshboard_project&theme=radical" />
+View Project
 </a>
 
-</p>
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 📊 GitHub Stats
