@@ -23,78 +23,35 @@
 ---
 
 ## 📂 Projects
-## 📂 Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 📊 Swiggy Sales Dashboard
-Interactive dashboard for analyzing sales data using Python and visualization tools.
+<a href="https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Swiggy-Sales-Dashboard&theme=radical" />
+</a>
 
-🔗 [View Project](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
+<a href="https://github.com/Atishkushwaha2004/Gmail-spam-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Gmail-spam-detector&theme=radical" />
+</a>
 
-</td>
+<a href="https://github.com/Atishkushwaha2004/Library_Management_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Library_Management_Project&theme=radical" />
+</a>
 
-<td width="50%">
+<a href="https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Food_Delivery_ML_Project&theme=radical" />
+</a>
 
-### 🤖 Gmail Spam Detector
-Machine learning model to classify emails as spam or not spam.
+<a href="https://github.com/Atishkushwaha2004/Linear_Regression_model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=Linear_Regression_model&theme=radical" />
+</a>
 
-🔗 [View Project](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
+<a href="https://github.com/Atishkushwaha2004/PowerBI_deshboard_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atishkushwaha2004&repo=PowerBI_deshboard_project&theme=radical" />
+</a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Library Management Project
-Python-based system to manage library operations like issuing and returning books.
-
-🔗 [View Project](https://github.com/Atishkushwaha2004/Library_Management_Project)
-
-</td>
-
-<td width="50%">
-
-### 🍔 Food Delivery ML Project
-Predict food delivery time using machine learning algorithms.
-
-🔗 [View Project](https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 Linear Regression Model
-Machine learning model to predict numerical values using regression techniques.
-
-🔗 [View Project](https://github.com/Atishkushwaha2004/Linear_Regression_model)
-
-</td>
-
-<td width="50%">
-
-### 📊 Power BI Dashboard
-Data visualization dashboard built using Power BI.
-
-🔗 [View Project](https://github.com/Atishkushwaha2004/PowerBI_deshboard_project)
-
-</td>
-</tr>
-
-</table>
-
----
-
-## 🔥 Featured Project
-### 🤖 Gmail Spam Detector  
-A machine learning model that classifies emails as spam or not spam.  
-👉 [View Project](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
-
+</p>
 ---
 
 ## 📊 GitHub Stats
