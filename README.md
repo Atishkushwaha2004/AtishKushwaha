@@ -1,67 +1,120 @@
 <h1 align="center">Hi 👋, I'm Atish Kushwaha</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
-
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Machine Learning Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-- 💻 I love working with **Python, Data Analysis, and Visualization**
-- 📊 Passionate about solving real-world problems using data
-- 🚀 Building projects to improve my skills
+## 🚀 About Me
+
+- 📊 I am passionate about Data Analytics and Machine Learning
+- 🧠 Currently learning FastAPI and Backend Development
+- 📈 Love working with real-world datasets
+- 💡 Interested in Data-driven decision making
+- 🔍 Always learning new technologies
 
 ---
 
 ## 🛠️ Skills
-- 💻 Programming: Python, Java, SQL  
-- 📊 Visualization: Excel, Power BI  
-- 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 Machine Learning: Linear Regression, Classification  
-- 📐 Mathematics: Linear Algebra, Statistics, Calculus  
-- 🧰 Tools: Jupyter Notebook, Google Colab, VS Code  
+
+### Programming & Tools
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
+- FastAPI
+- Machine Learning
+- Git & GitHub
 
 ---
 
 ## 📂 Projects
-- 📊 [Swiggy Sales Dashboard](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
-- 🤖 [Gmail Spam Detector](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
-- 📚 [Library Management Project](https://github.com/Atishkushwaha2004/Library_Management_Project)
-- 🍔 [Food Delivery ML Project](https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project)
-- 📈 [Linear Regression Model](https://github.com/Atishkushwaha2004/Linear_Regression_model)
-- 📊 [Power BI Dashboard](https://github.com/Atishkushwaha2004/PowerBI_deshboard_project)
+
+### 📊 Swiggy Sales Dashboard
+
+- Built interactive dashboard using Streamlit
+- Performed sales analysis and visualization
+- Used real-world food delivery dataset
+
+### 📦 Course API (FastAPI)
+
+- Built REST API using FastAPI
+- Connected PostgreSQL database
+- Implemented CRUD operations
+
+### 📧 Email Spam Detector
+
+- Machine Learning classification project
+- Used NLP techniques
+- Achieved high accuracy
+
+### 📉 Customer Churn Prediction
+
+- Predict customer churn using ML
+- Data preprocessing and feature engineering
 
 ---
 
-## 🔥 Featured Project
-### 🤖 Gmail Spam Detector  
-A machine learning model that classifies emails as spam or not spam.  
-👉 [View Project](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![Pandas](https://img.shields.io/badge/Pandas-green)
+![NumPy](https://img.shields.io/badge/NumPy-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-black)
+![FastAPI](https://img.shields.io/badge/FastAPI-darkgreen)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-red)
+![Git](https://img.shields.io/badge/Git-orange)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atishkushwaha2004&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Atishkushwaha2004&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atishkushwaha2004&show_icons=true&theme=radical)
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-red?style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkushwaha2004&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: atishkushwaha151@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atishkushwaha2004&theme=radical)
 
 ---
 
-## ⚡ Fun Fact
-- I love turning data into meaningful insights 📊
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Atishkushwaha2004)
+
+---
+
+## 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=react-dark)
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your_email@gmail.com
+- Portfolio: https://your-portfolio-link.com
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Atishkushwaha2004)
+
+---
+
+## 💡 Fun Fact
+
+I love turning data into insights 📊
