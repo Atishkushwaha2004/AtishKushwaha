@@ -29,24 +29,100 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-- 📊 **Swiggy Sales Dashboard**
-- 📦 **Course API using FastAPI**
-- 📧 **Email Spam Detector**
-- 📉 **Customer Churn Prediction**
-- 📚 **Library Management System**
+<table>
+<tr>
 
----
+<td width="50%" align="center">
 
-## ⭐ Featured Project
+### 📊 Swiggy Sales Dashboard
+
+Sales analysis dashboard built using Python and data visualization.
+
+🔗  
+<a href="https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard">
+View Project
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📦 Course API using FastAPI
+
+REST API built using FastAPI with PostgreSQL database integration.
+
+🔗  
+<a href="https://github.com/Atishkushwaha2004/Courses_Fast_API">
+View Project
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### 📧 Email Spam Detector
 
-A machine learning model that identifies emails as spam or not spam.
+Machine learning model that identifies emails as spam or not spam.
 
-🔗 **View Project:**  
-https://github.com/Atishkushwaha2004
+🔗  
+<a href="https://github.com/Atishkushwaha2004/Gmail-spam-detector">
+View Project
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📉 Customer Churn Prediction
+
+Predict customer churn using machine learning algorithms.
+
+🔗  
+<a href="https://github.com/Atishkushwaha2004/customer-churn-prediction">
+View Project
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📚 Library Management System
+
+Python-based system to manage library operations.
+
+🔗  
+<a href="https://github.com/Atishkushwaha2004/Library_Management_Project">
+View Project
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚗 Car Price Prediction
+
+Machine learning model to predict car prices.
+
+🔗  
+<a href="https://github.com/Atishkushwaha2004/Car-Price-Prediction">
+View Project
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -61,7 +137,7 @@ https://github.com/Atishkushwaha2004
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atishkushwaha2004&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Atishkushwaha2004&theme=radical" />
 </p>
 
 ---
@@ -81,32 +157,25 @@ https://github.com/Atishkushwaha2004
 
 ## 📬 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your_email@gmail.com
-- GitHub: https://github.com/Atishkushwaha2004
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: your_email@gmail.com
+- 🐙 GitHub: https://github.com/Atishkushwaha2004
 
 ---
 
-## 💡 Fun Fact
+## ⚡ Fun Fact
 
-I love turning data into meaningful insights 📊
-
----
-
-## 📌 Popular Repositories
-
-- Password Generator
-- Library Management System
-- Email Spam Detector
-- Food Delivery ML Project
-- Car Price Prediction
-- Bank Loan Prediction
+<p align="center">
+<b>💡 I love turning data into meaningful insights and building real-world projects with Python 📊</b>
+</p>
 
 ---
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Atishkushwaha2004)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Atishkushwaha2004" />
+</p>
 
 ---
 
