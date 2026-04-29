@@ -1,159 +1,115 @@
 <h1 align="center">Hi 👋, I'm Atish Kushwaha</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-- 💻 I love working with **Python, Data Analysis, and Visualization**
-- 📊 Passionate about solving real-world problems using data
-- 🚀 Building projects to improve my skills
+
+- 🎓 I am currently learning **Machine Learning & Data Science**
+- 📊 Interested in **Python, Data Analysis, and Visualization**
+- 🚀 Passionate about building real-world projects
+- 📈 Always exploring new technologies
+- 🎯 Working on improving my coding skills every dayw
 
 ---
 
 ## 🛠️ Skills
-- 💻 Programming: Python, Java, SQL  
-- 📊 Visualization: Excel, Power BI  
-- 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 Machine Learning: Linear Regression, Classification  
-- 📐 Mathematics: Linear Algebra, Statistics, Calculus  
-- 🧰 Tools: Jupyter Notebook, Google Colab, VS Code  
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- SQL
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+- VS Code
 
 ---
 
 ## 📂 Projects
-## 🚀 Featured Projects
 
-<table>
-<tr>
+- 📊 **Swiggy Sales Dashboard**
+- 📦 **Course API using FastAPI**
+- 📧 **Email Spam Detector**
+- 📉 **Customer Churn Prediction**
+- 📚 **Library Management System**
 
-<td width="50%" align="center">
+---
 
-### 📊 Swiggy Sales Dashboard
+## ⭐ Featured Project
 
-Interactive dashboard for analyzing sales trends and performance using Python and data visualization tools.
+### 📧 Email Spam Detector
 
-**Tech:** Python, Pandas, Streamlit  
+A machine learning model that identifies emails as spam or not spam.
 
-🔗  
-<a href="https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard">
-View Project
-</a>
+🔗 **View Project:**  
+https://github.com/Atishkushwaha2004
 
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 Gmail Spam Detector
-
-Machine learning model that classifies emails as spam or not spam using natural language processing techniques.
-
-**Tech:** Python, Machine Learning, NLP  
-
-🔗  
-<a href="https://github.com/Atishkushwaha2004/Gmail-spam-detector">
-View Project
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 📚 Library Management System
-
-Python-based system to manage library operations such as issuing, returning, and tracking books.
-
-**Tech:** Python  
-
-🔗  
-<a href="https://github.com/Atishkushwaha2004/Library_Management_Project">
-View Project
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🍔 Food Delivery ML Project
-
-Predicts food delivery time based on distance, traffic, and weather using machine learning algorithms.
-
-**Tech:** Python, Machine Learning  
-
-🔗  
-<a href="https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project">
-View Project
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 📈 Linear Regression Model
-
-Regression model used to predict numerical outcomes based on input features.
-
-**Tech:** Python, Scikit-learn  
-
-🔗  
-<a href="https://github.com/Atishkushwaha2004/Linear_Regression_model">
-View Project
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📊 Power BI Dashboard
-
-Business intelligence dashboard for visualizing key performance indicators and business metrics.
-
-**Tech:** Power BI  
-
-🔗  
-<a href="https://github.com/Atishkushwaha2004/PowerBI_deshboard_project">
-View Project
-</a>
-
-</td>
-
-</tr>
-
-</table>
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atishkushwaha2004&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Atishkushwaha2004&theme=radical" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 GitHub Contributions
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-red?style=for-the-badge)
-
----
-
-## 📫 Connect with Me
-- 📧 Email: atishkushwaha151@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atishkushwaha2004&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-- I love turning data into meaningful insights 📊
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Pandas](https://img.shields.io/badge/Pandas-green)
+![NumPy](https://img.shields.io/badge/NumPy-yellow)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-orange)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-red)
+![SQL](https://img.shields.io/badge/SQL-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-black)
+![Git](https://img.shields.io/badge/Git-orange)
+
+---
+
+## 📬 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your_email@gmail.com
+- GitHub: https://github.com/Atishkushwaha2004
+
+---
+
+## 💡 Fun Fact
+
+I love turning data into meaningful insights 📊
+
+---
+
+## 📌 Popular Repositories
+
+- Password Generator
+- Library Management System
+- Email Spam Detector
+- Food Delivery ML Project
+- Car Price Prediction
+- Bank Loan Prediction
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Atishkushwaha2004)
+
+---
+
+## 📊 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=react-dark)
