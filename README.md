@@ -23,12 +23,70 @@
 ---
 
 ## 📂 Projects
-- 📊 [Swiggy Sales Dashboard](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
-- 🤖 [Gmail Spam Detector](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
-- 📚 [Library Management Project](https://github.com/Atishkushwaha2004/Library_Management_Project)
-- 🍔 [Food Delivery ML Project](https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project)
-- 📈 [Linear Regression Model](https://github.com/Atishkushwaha2004/Linear_Regression_model)
-- 📊 [Power BI Dashboard](https://github.com/Atishkushwaha2004/PowerBI_deshboard_project)
+## 📂 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Swiggy Sales Dashboard
+Interactive dashboard for analyzing sales data using Python and visualization tools.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
+
+</td>
+
+<td width="50%">
+
+### 🤖 Gmail Spam Detector
+Machine learning model to classify emails as spam or not spam.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library Management Project
+Python-based system to manage library operations like issuing and returning books.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/Library_Management_Project)
+
+</td>
+
+<td width="50%">
+
+### 🍔 Food Delivery ML Project
+Predict food delivery time using machine learning algorithms.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/Food_Delivery_ML_Project)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Linear Regression Model
+Machine learning model to predict numerical values using regression techniques.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/Linear_Regression_model)
+
+</td>
+
+<td width="50%">
+
+### 📊 Power BI Dashboard
+Data visualization dashboard built using Power BI.
+
+🔗 [View Project](https://github.com/Atishkushwaha2004/PowerBI_deshboard_project)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
