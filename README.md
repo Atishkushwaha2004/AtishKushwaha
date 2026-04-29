@@ -9,7 +9,7 @@
 - 📊 Interested in **Python, Data Analysis, and Visualization**
 - 🚀 Passionate about building real-world projects
 - 📈 Always exploring new technologies
-- 🎯 Working on improving my coding skills every dayw
+- 🎯 Working on improving my coding skills every day
 
 ---
 
