@@ -57,107 +57,6 @@ class AtishKushwaha:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| 🔷 Project | 📝 Description | 🏷️ Tags |
-|---|---|---|
-| [📊 Swiggy Sales Dashboard](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard) | Sales analysis dashboard built with Python & data visualization | `Python` `Pandas` `Matplotlib` |
-| [📦 Course API (FastAPI)](https://github.com/Atishkushwaha2004/Courses_Fast_API) | REST API with FastAPI and PostgreSQL database integration | `FastAPI` `PostgreSQL` `REST` |
-| [📧 Email Spam Detector](https://github.com/Atishkushwaha2004/Gmail-spam-detector) | ML model to classify emails as spam or not spam using NLP | `ML` `NLP` `Scikit-learn` |
-| [📉 Customer Churn Prediction](https://github.com/Atishkushwaha2004/customer-churn-prediction) | Predict customer churn using machine learning algorithms | `ML` `Python` `EDA` |
-| [📚 Library Management System](https://github.com/Atishkushwaha2004/Library_Management_Project) | Python-based system to manage library operations | `Python` `OOP` `SQL` |
-| [🚗 Car Price Prediction](https://github.com/Atishkushwaha2004/Car-Price-Prediction) | ML regression model to estimate car prices from features | `Regression` `ML` `Python` |
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atishkushwaha2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atishkushwaha2004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Atishkushwaha2004&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b1e&currStreakLabel=58a6ff" width="49%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atishkushwaha2004&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4" />
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Fun Fact
-> *"I love turning raw data into meaningful insights and building real-world projects with Python 📊"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
-
-
-
-<h1 align="center">Hi 👋, I'm Atish Kushwaha</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 I am currently learning **Machine Learning & Data Science**
-- 📊 Interested in **Python, Data Analysis, and Visualization**
-- 🚀 Passionate about building real-world projects
-- 📈 Always exploring new technologies
-- 🎯 Working on improving my coding skills every day
-
----
-
-## 🛠️ Skills
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- SQL
-- Machine Learning
-- Data Analysis
-- Git & GitHub
-- VS Code
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
 
@@ -253,6 +152,11 @@ View Project
 
 ---
 
+
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -268,6 +172,79 @@ View Project
 </p>
 
 ---
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atishkushwaha2004&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4" />
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Fun Fact
+> *"I love turning raw data into meaningful insights and building real-world projects with Python 📊"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
+
+
+
+<h1 align="center">Hi 👋, I'm Atish Kushwaha</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I am currently learning **Machine Learning & Data Science**
+- 📊 Interested in **Python, Data Analysis, and Visualization**
+- 🚀 Passionate about building real-world projects
+- 📈 Always exploring new technologies
+- 🎯 Working on improving my coding skills every day
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- SQL
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+- VS Code
+
+---
+
+
 
 ## 🧰 Tech Stack
 
