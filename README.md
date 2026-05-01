@@ -25,22 +25,23 @@
 ## 🧑‍💻 About Me
 
 class AtishKushwaha:
-    name       = "Atish Kushwaha"
-    role       = "Aspiring Data Scientist 📊"
-    location   = "Madhya Pradesh, India"
-    learning   = ["Machine Learning", "Data Science", "Deep Learning"]
-    interests  = ["Data Analysis", "Visualization", "Python", "FastAPI"]
-    hobbies    = ["Exploring Datasets", "Building ML Models", "Coding"]
-    fun_fact   = "I love turning raw data into meaningful insights 📊"
-    goal       = "Build real-world ML projects & contribute to open source"
-    email      = "atishkushwaha151@gmail.com"
+    name      =  "Atish Kushwaha"
+    role      =  "Aspiring Data Scientist"
+    location  =  "Madhya Pradesh, India"
+    learning  =  ["Machine Learning", "Deep Learning", "Data Science"]
+    interests =  ["Data Analysis", "Visualization", "Python", "FastAPI"]
+    hobbies   =  ["Exploring Datasets", "Building ML Models", "Coding"]
+    fun_fact  =  "I turn messy raw data into beautiful insights!"
+    goal      =  "Build impactful ML projects & contribute to open source"
+    email     =  "atishkushwaha151@gmail.com"
 
     def say_hi(self):
-        print("Hey! Thanks for stopping by my profile!")
-        print("I'm Atish — a passionate Data Science enthusiast from India")
-        print("I love building ML models & solving real-world problems with data")
-        print("Feel free to explore my projects and let's connect!")
-
+        print("=" * 55)
+        print("  Hey there! Thanks for visiting my profile!")
+        print("  I'm Atish — Data Science enthusiast from India.")
+        print("  I love solving real-world problems using ML & Python.")
+        print("  Explore my projects & feel free to connect!")
+        print("=" * 55)
 ---
 
 ## 🛠️ Tech Stack & Tools
