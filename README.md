@@ -7,12 +7,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%26+FastAPI+Developer+%F0%9F%90%8D;Turning+Data+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <!-- Profile Views + Follow -->
-<img src="https://komarev.com/ghpvc/?username=Atishkushwaha2004&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<div align="center">
+<a href="https://linkedin.com/in/atish-kushwaha-25a907268">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Atishkushwaha2004?style=for-the-badge&color=1f6feb&logo=github&label=FOLLOWERS)](https://github.com/Atishkushwaha2004)
-
+<a href="mailto:atishkushwaha151@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/Atishkushwaha2004">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </div>
-
 ---
 
 ## 🧑‍💻 About Me
