@@ -21,22 +21,6 @@
 </a>
 </div>
 ---
-name      = "Atish Kushwaha"
-role      = "Aspiring Data Scientist"
-location  = "Madhya Pradesh, India"
-learning  = ["Machine Learning", "Deep Learning", "Data Science"]
-interests = ["Data Analysis", "Visualization", "Python", "FastAPI"]
-hobbies   = ["Exploring Datasets", "Building ML Models", "Coding"]
-fun_fact  = "I turn messy raw data into beautiful insights!"
-goal      = "Build impactful ML projects & contribute to open source"
-email     = "atishkushwaha151@gmail.com"
-
-def say_hi():
-    print("Hey there! Thanks for visiting my profile!")
-    print("I am Atish - Data Science enthusiast from India.")
-    ...
-
-say_hi()
 
 
 
