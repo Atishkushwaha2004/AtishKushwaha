@@ -216,9 +216,6 @@ View Project
 ### 💡 Fun Fact
 > *"I love turning raw data into meaningful insights and building real-world projects with Python 📊"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
 
 
 
