@@ -21,16 +21,6 @@
 </a>
 </div>
 ---
-
-
-
-Screenshot dekh liya! Problem bilkul clear hai.
-
-**Root Cause:** `# ╔══╗` wale **box drawing characters** aur `# >>` wale comments GitHub markdown mein **headings aur separators** ki tarah render ho rahe hain! GitHub `#` ko heading samajh leta hai code block ke bahar.
-
-**Asli problem:** Tumhara GitHub pe abhi bhi **purana README** hai. Humara updated file tumne upload nahi kiya. Lekin code mein bhi yeh characters hatane honge.Ab GitHub pe **exactly aisa** dikhega:
-
-```python
 name      = "Atish Kushwaha"
 role      = "Aspiring Data Scientist"
 location  = "Madhya Pradesh, India"
@@ -47,18 +37,6 @@ def say_hi():
     ...
 
 say_hi()
-```
-
-**Kya hataya aur kyu:**
-
-| Hataya | Reason |
-|---|---|
-| `# ╔══╗` box characters | GitHub heading ban raha tha |
-| `# >> Running say_hi()` | `>>` GitHub mein blockquote render hota hai |
-| `# Output:` comments | Heading ban raha tha |
-| `'` apostrophe aur `—` dash | Special chars code block mein sometimes break karte hain |
-
-**Yeh file download karke GitHub pe replace karo** — ab koi issue nahi aayega! ✅
 
 
 
