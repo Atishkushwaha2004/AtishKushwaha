@@ -24,25 +24,29 @@
 
 ## 🧑‍💻 About Me
 
-class AtishKushwaha:
-    name      =  "Atish Kushwaha"
-    role      =  "Aspiring Data Scientist"
-    location  =  "Madhya Pradesh, India"
-    learning  =  ["Machine Learning", "Deep Learning", "Data Science"]
-    interests =  ["Data Analysis", "Visualization", "Python", "FastAPI"]
-    hobbies   =  ["Exploring Datasets", "Building ML Models", "Coding"]
-    fun_fact  =  "I turn messy raw data into beautiful insights!"
-    goal      =  "Build impactful ML projects & contribute to open source"
-    email     =  "atishkushwaha151@gmail.com"
+# ╔══════════════════════════════════════════════════════╗
+# ║           Welcome to Atish's GitHub Profile!         ║
+# ╚══════════════════════════════════════════════════════╝
 
-    def say_hi(self):
-        print("=" * 55)
-        print("  Hey there! Thanks for visiting my profile!")
-        print("  I'm Atish — Data Science enthusiast from India.")
-        print("  I love solving real-world problems using ML & Python.")
-        print("  Explore my projects & feel free to connect!")
-        print("=" * 55)
----
+name      = "Atish Kushwaha"
+role      = "Aspiring Data Scientist"
+location  = "Madhya Pradesh, India"
+learning  = ["Machine Learning", "Deep Learning", "Data Science"]
+interests = ["Data Analysis", "Visualization", "Python", "FastAPI"]
+hobbies   = ["Exploring Datasets", "Building ML Models", "Coding"]
+fun_fact  = "I turn messy raw data into beautiful insights!"
+goal      = "Build impactful ML projects & contribute to open source"
+email     = "atishkushwaha151@gmail.com"
+
+# >> Running say_hi()...
+
+print("Hey there! Thanks for visiting my profile!")
+print("I'm Atish — Data Science enthusiast from India.")
+...
+
+# Output:
+# >> Hey there! Thanks for visiting my profile!
+# >> I'm Atish — Data Science enthusiast from India.
 
 ## 🛠️ Tech Stack & Tools
 
