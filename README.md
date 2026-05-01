@@ -218,11 +218,3 @@ View Project
 
 
 
-
-
-## 📊 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atishkushwaha2004&theme=react-dark)
-
-
-
