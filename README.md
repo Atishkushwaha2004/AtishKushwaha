@@ -40,11 +40,7 @@ email     = "atishkushwaha151@gmail.com"
 
 # >> Running say_hi()...
 
-print("Hey there! Thanks for visiting my profile!")
-print("I'm Atish — Data Science enthusiast from India.")
-...
 
-# Output:
 # >> Hey there! Thanks for visiting my profile!
 # >> I'm Atish — Data Science enthusiast from India.
 
