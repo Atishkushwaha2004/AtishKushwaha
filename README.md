@@ -24,19 +24,22 @@
 
 ## 🧑‍💻 About Me
 
-```python
 class AtishKushwaha:
     name       = "Atish Kushwaha"
-    role       = "Aspiring Data Scientist"
-    location   = "India 🇮🇳"
+    role       = "Aspiring Data Scientist 📊"
+    location   = "Madhya Pradesh, India"
     learning   = ["Machine Learning", "Data Science", "Deep Learning"]
     interests  = ["Data Analysis", "Visualization", "Python", "FastAPI"]
+    hobbies    = ["Exploring Datasets", "Building ML Models", "Coding"]
     fun_fact   = "I love turning raw data into meaningful insights 📊"
     goal       = "Build real-world ML projects & contribute to open source"
+    email      = "atishkushwaha151@gmail.com"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect 🚀")
-```
+        print("Hey! Thanks for stopping by my profile!")
+        print("I'm Atish — a passionate Data Science enthusiast from India")
+        print("I love building ML models & solving real-world problems with data")
+        print("Feel free to explore my projects and let's connect!")
 
 ---
 
