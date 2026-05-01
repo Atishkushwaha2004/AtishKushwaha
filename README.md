@@ -174,6 +174,15 @@ View Project
 ---
 
 
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Atishkushwaha2004" />
+</p>
+
+---
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -213,75 +222,6 @@ View Project
 
 
 
-<h1 align="center">Hi 👋, I'm Atish Kushwaha</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 I am currently learning **Machine Learning & Data Science**
-- 📊 Interested in **Python, Data Analysis, and Visualization**
-- 🚀 Passionate about building real-world projects
-- 📈 Always exploring new technologies
-- 🎯 Working on improving my coding skills every day
-
----
-
-## 🛠️ Skills
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- SQL
-- Machine Learning
-- Data Analysis
-- Git & GitHub
-- VS Code
-
----
-
-
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Pandas](https://img.shields.io/badge/Pandas-green)
-![NumPy](https://img.shields.io/badge/NumPy-yellow)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-orange)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-red)
-![SQL](https://img.shields.io/badge/SQL-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-black)
-![Git](https://img.shields.io/badge/Git-orange)
-
----
-
-## 📬 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your_email@gmail.com
-- 🐙 GitHub: https://github.com/Atishkushwaha2004
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-<b>💡 I love turning data into meaningful insights and building real-world projects with Python 📊</b>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Atishkushwaha2004" />
-</p>
-
----
 
 ## 📊 Contribution Activity
 
