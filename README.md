@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hi%20there!%20I'm%20Atish%20Kushwaha%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=79c0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hi%20there!%20I'm%20Atish%20Kushwaha%20👋&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=16&descColor=79c0ff" width="100%"/>
+
+<br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%26+FastAPI+Developer+%F0%9F%90%8D;Turning+Data+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%26+FastAPI+Developer+%F0%9F%90%8D;Turning+Data+into+Insights+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,22 +24,27 @@
 ```python
 class AtishKushwaha:
     name       = "Atish Kushwaha"
-    role       = "Aspiring Data Scientist"
-    location   = "India 🇮🇳"
+    role       = "Aspiring Data Scientist 📊"
+    location   = "Madhya Pradesh, India 🇮🇳"
     learning   = ["Machine Learning", "Data Science", "Deep Learning"]
     interests  = ["Data Analysis", "Visualization", "Python", "FastAPI"]
+    hobbies    = ["Exploring Datasets 🔍", "Building ML Models 🤖", "Coding 💻"]
     fun_fact   = "I love turning raw data into meaningful insights 📊"
     goal       = "Build real-world ML projects & contribute to open source"
+    email      = "atishkushwaha151@gmail.com"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect 🚀")
+        print("Hey! 👋 Thanks for stopping by my profile!")
+        print("I'm Atish — a passionate Data Science enthusiast from India 🇮🇳")
+        print("I love building ML models & solving real-world problems with data 🤖")
+        print("Feel free to explore my projects and let's connect! 🚀")
 ```
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🐍 Languages
+### 🐍 Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -65,18 +72,18 @@ class AtishKushwaha:
 <td width="50%" align="center">
 
 ### 📊 Swiggy Sales Dashboard
-Sales analysis dashboard built using Python and data visualization.
+> Sales analysis dashboard built using Python and data visualization.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Swiggy-Sales-Dashboard)
 
 </td>
 
 <td width="50%" align="center">
 
 ### 📦 Course API using FastAPI
-REST API built using FastAPI with PostgreSQL database integration.
+> REST API built using FastAPI with PostgreSQL database integration.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Courses_Fast_API)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Courses_Fast_API)
 
 </td>
 
@@ -87,18 +94,18 @@ REST API built using FastAPI with PostgreSQL database integration.
 <td width="50%" align="center">
 
 ### 📧 Email Spam Detector
-Machine learning model that identifies emails as spam or not spam.
+> Machine learning model that identifies emails as spam or not spam.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Gmail-spam-detector)
 
 </td>
 
 <td width="50%" align="center">
 
 ### 📉 Customer Churn Prediction
-Predict customer churn using machine learning algorithms.
+> Predict customer churn using machine learning algorithms.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/customer-churn-prediction)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/customer-churn-prediction)
 
 </td>
 
@@ -109,22 +116,23 @@ Predict customer churn using machine learning algorithms.
 <td width="50%" align="center">
 
 ### 📚 Library Management System
-Python-based system to manage library operations efficiently.
+> Python-based system to manage library operations.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Library_Management_Project)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Library_Management_Project)
 
 </td>
 
 <td width="50%" align="center">
 
 ### 🚗 Car Price Prediction
-Machine learning model to predict car prices accurately.
+> Machine learning model to predict car prices.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Car-Price-Prediction)
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atishkushwaha2004/Car-Price-Prediction)
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -139,10 +147,18 @@ Machine learning model to predict car prices accurately.
 
 ---
 
-## 📈 GitHub Streak
+## 📈 GitHub Contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Atishkushwaha2004&theme=radical&hide_border=true&background=0d1117" width="55%" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atishkushwaha2004&style=for-the-badge&color=1f6feb" />
 </p>
 
 ---
@@ -180,6 +196,8 @@ Machine learning model to predict car prices accurately.
 ### 💡 Fun Fact
 > *"I love turning raw data into meaningful insights and building real-world projects with Python 📊"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
